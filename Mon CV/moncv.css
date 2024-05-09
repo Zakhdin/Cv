@@ -1,0 +1,194 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+
+body{
+	width : 100%;
+	background-color: black;
+	background-image : url("https://www.bhmpics.com/downloads/mario-kart-background/59.5b08bfd184fc9d1163fe1018f51a5ad9.png");
+	background-size : contain;
+}
+
+
+.container{
+
+	width: 100%;
+	height:auto;
+
+	
+
+}
+
+.banner{
+	margin-top: -2%;
+	width: 100%;
+	height: 40vh;
+	background-image: url(basket-banner.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 100%;
+	border-radius: 10px;
+	color: white;
+	
+}
+
+.banner-text{
+
+	
+	margin:auto;
+	text-align: center;
+	padding-top: 5%;
+	padding-left: 0;
+	padding-right: 0;
+
+}
+
+
+.banner-text h1 {
+	letter-spacing: 10px;
+	font-weight: bold;
+	font-size: 50px;
+}
+
+
+.banner-text h2 {
+	letter-spacing: 10px;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+
+.banner-text h3 {
+	letter-spacing: 10px;
+	font-weight: bold;
+	font-size: 20px;
+}
+.banner-text h4{
+
+	letter-spacing : 5px;
+	font-weight : bold;
+	font-size : 20px;
+}
+
+.description{
+margin : auto;
+	width: 40%;
+	height: 45vh;
+	background-color:ghostwhite;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 100%;
+	border-top-left-radius: 50px;
+	border-bottom-right-radius: 50px;
+	margin-top: 3%;
+	margin-bottom : 3%;
+
+}
+
+.description h1{
+
+	font-size: 30px;
+	text-align: center;
+}
+
+.description ul{
+	margin-top: 5%;
+	font-size: 25px;
+	text-align: center;
+	list-style-type: none;
+}
+
+
+
+.details{
+margin : auto;
+	width: 40%;
+	background-color:ghostwhite;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 100%;
+	border-radius: 10px;
+	margin-top: 3%;
+	border-top-right-radius: 50px;
+	border-bottom-left-radius: 50px;
+	margin-bottom : 3%;
+	
+}
+
+.details h1{
+
+	font-size: 30px;
+	text-align: center;
+}
+
+.details ul{
+
+	font-size: 25px;
+	text-align: center;
+	list-style-type: none;
+}
+
+.futur{
+	margin : auto;
+	width: 90%;
+	background-color:#ff6321;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 100%;
+	border-radius: 10px;
+	border-radius: 30px;
+	padding : auto;
+	overflow: hidden;
+}
+
+
+.futur h1{
+
+	font-size: 30px;
+	text-align: center;
+	padding : auto;
+	width: auto;
+	padding-bottom : 3%;
+	color : white;
+}
+
+
+.futur p 
+{
+	font-size: 20px;
+	text-align: center;
+	color : white;
+
+
+
+
+
+}
+
+
+
+.footer{
+
+	display : flex;
+	width:100%;
+	background-color:#696767;
+	background-repeat: no-repeat;
+	margin-top: 3%;
+	justify-content: space-between;
+}
+
+
+.footer h3{
+	font-size: 25px;
+	text-align: center;
+	padding-top : 5px;
+	color : white;
+}
+
+a
+{
+	color : white;
+}
+
